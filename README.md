@@ -28,4 +28,4 @@ At this time, the aggregate calls contain all structural variant calls that were
 ## Reference
 This data is released in support of a paper describing the UDN Phase I efforts to identify structural variants in rare disease patients through genome sequencing.  If you use this data, please cite:
 
-Pre-print forthcoming.
+Pre-print: [Holt, James M., et al. "Identification of Pathogenic Structural Variants in Rare Disease Patients through Genome Sequencing." bioRxiv (2019): 627661.](https://doi.org/10.1101/627661)
